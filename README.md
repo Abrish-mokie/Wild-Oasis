@@ -1,8 +1,8 @@
-#Fullstack Node.js Project with TailwindCSS and Supabase
+# Fullstack Node.js Project with TailwindCSS and Supabase
 
 Welcome to the Fullstack Node.js Project! This project is a full-stack web application built using Node.js for the backend, TailwindCSS for styling, and Supabase as the backend service. The project is designed to be a scalable and flexible foundation for building web applications.
 
-##Features
+## Features
 
     •	Node.js Backend: RESTful API built with Express.js for handling server-side logic.
     •	Supabase Integration: Supabase is used as the backend service for database management, authentication, and real-time features.
@@ -11,7 +11,7 @@ Welcome to the Fullstack Node.js Project! This project is a full-stack web appli
     •	CRUD Operations: Basic Create, Read, Update, and Delete operations for managing resources using server actions.
     •	Responsive Design: Built with mobile-first design principles to ensure a seamless experience across devices.
 
-Tech Stack
+## Tech Stack
 
     •	Frontend:
     •	TailwindCSS for styling.
